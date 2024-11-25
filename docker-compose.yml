@@ -20,14 +20,14 @@ services:
     networks:
       - mynetwork
 
-  frontend:
-    build: ./frontend
-    ports:
-      - "4200:4200"
-    depends_on:
-      - backend
-    networks:
-      - mynetwork
+  #frontend:
+  #  build: ./frontend
+  #  ports:
+  #    - "4200:4200"
+  #  depends_on:
+  #    - backend
+  #  networks:
+  #    - mynetwork
 
 networks:
   mynetwork:
