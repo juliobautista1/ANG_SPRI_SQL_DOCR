@@ -30,6 +30,20 @@ services:
     networks:
       - mynetwork
 
+  cypress:
+      image: cypress/included:12.0.0  # Usa la versión más reciente de Cypress incluida
+      environment:
+        - CYPRESS_baseUrl=http://frontend:4200  # La URL base de la aplicación frontend (puede ser diferente según tu configuración)
+      depends_on:
+        - frontend  # Asegura que el frontend esté listo antes de ejecutar las pruebas
+      networks:
+        - mynetwork
+      volumes:
+        - ./cypress:/e2e  # Volumen para montar tu código de pruebas Cypress (si tienes las pruebas localmente)
+      entrypoint: ["npx", "cypress", "run"]  # Comando para ejecutar las pruebas de Cypress
+      working_dir: /e2e  # Directorio donde se encuentran las pruebas de Cypress dentro del contenedor
+      # Se puede agregar `command` si se necesita configurar más opciones de Cypress, como headless o sin GUI.
+
 networks:
   mynetwork:
     driver: bridge
