@@ -40,7 +40,7 @@ services:
         - mynetwork
       volumes:
         - ./cypress:/e2e  # Volumen para montar tu código de pruebas Cypress (si tienes las pruebas localmente)
-      entrypoint: ["npx", "cypress", "run"]  # Comando para ejecutar las pruebas de Cypress
+      entrypoint: ["sh", "-c", "sleep 90 && npx cypress run"]  # Comando para ejecutar las pruebas de Cypress
       working_dir: /e2e  # Directorio donde se encuentran las pruebas de Cypress dentro del contenedor
       # Se puede agregar `command` si se necesita configurar más opciones de Cypress, como headless o sin GUI.
 
