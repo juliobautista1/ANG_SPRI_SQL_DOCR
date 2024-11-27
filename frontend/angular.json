@@ -58,6 +58,12 @@
         },
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "port": 4200,
+            "host": "0.0.0.0",  // Asegura que Angular escuche en todas las interfaces de red
+            "disableHostCheck": true,  // Desactiva la verificación del host (solo para pruebas)
+            "browserTarget": "hello2:build:development"
+          },
           "configurations": {
             "production": {
               "browserTarget": "hello2:build:production"
