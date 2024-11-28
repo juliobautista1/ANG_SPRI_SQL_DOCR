@@ -1,1 +1,1 @@
-Ejemplo de spring, sql, angular y cypress
+Para crear un servicio con frontend, backend y sql
