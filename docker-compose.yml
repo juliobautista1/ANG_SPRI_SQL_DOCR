@@ -33,7 +33,7 @@ services:
   cypress:
       image: cypress/included:latest  # Usa la versión más reciente de Cypress incluida
       environment:
-        - CYPRESS_baseUrl=http://127.0.0.1:4200/  # La URL base de la aplicación frontend (puede ser diferente según tu configuración)
+        - CYPRESS_baseUrl=http://frontend:4200/  # La URL base de la aplicación frontend (puede ser diferente según tu configuración)
       depends_on:
         - frontend  # Asegura que el frontend esté listo antes de ejecutar las pruebas
       networks:
