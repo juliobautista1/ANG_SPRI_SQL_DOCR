@@ -31,7 +31,7 @@ jobs:
       uses: actions/setup-java@v3
       with:
         java-version: '11'
-        distribution: 'adoptium'  # Usar adoptium en lugar de adoptopenjdk
+        distribution: 'zulu'  # Usar adoptium en lugar de adoptopenjdk
 
     # Paso 2: Instalar Node.js (para el frontend)
     - name: Set up Node.js
