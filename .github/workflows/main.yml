@@ -27,10 +27,11 @@ jobs:
       uses: actions/checkout@v3
 
     # Paso 1: Instalar Docker
+# Paso 1: Instalar Docker y una versión específica de containerd
     - name: Set up Docker
       run: |
         sudo apt-get update
-        sudo apt-get install -y docker.io
+        sudo apt-get install -y docker-ce=5:20.10.16~3-0~ubuntu-focal docker-ce-cli=5:20.10.16~3-0~ubuntu-focal containerd.io=1.4.9-1
         sudo systemctl start docker
         sudo systemctl enable docker
         
