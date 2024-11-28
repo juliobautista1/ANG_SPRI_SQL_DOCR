@@ -39,6 +39,11 @@ jobs:
       with:
         node-version: '18'  # Ajusta según tu versión de Node.js
 
+    - name: Set Java Options for Maven
+      run: |
+        echo "JAVA_HOME=${{ steps.setup-java.outputs.java-home }}" >> $GITHUB_ENV
+        echo "MAVEN_OPTS=-Dmaven.compiler.source=11 -Dmaven.compiler.target=11" >> $GITHUB_ENV
+        
     # Paso 3: Instalar dependencias del backend (mvn clean install)
     - name: Build backend with Maven
       run: |
