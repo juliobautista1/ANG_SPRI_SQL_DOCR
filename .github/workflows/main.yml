@@ -99,7 +99,7 @@ jobs:
     # Paso 11: Ejecutar Cypress en modo headless sin TTY
     - name: Run Cypress Tests
       run: |
-        docker-compose -f docker-compose.yml exec -T cypress npx cypress run --headless --no-exit
+        docker-compose -f docker-compose.yml exec -T cypress npx cypress run --headless
     
     # Paso 9: Detener y eliminar contenedores
     - name: Stop and remove containers
