@@ -2,6 +2,8 @@ name: Build and Test with Docker Compose
 
 on:
   push:
+    paths-ignore:
+    - 'cypress/screeenshots/**'
     branches:
       - main
   pull_request:
