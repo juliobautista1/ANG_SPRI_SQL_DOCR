@@ -4,9 +4,7 @@ if [ -d "/e2e/cypress/screenshots" ] && [ "$(ls -A /e2e/cypress/screenshots)" ];
 
   # Añade las capturas de pantalla al repositorio
 
-  cd /e2e/cypress/screenshots
-  
- git add -A cypress/screenshots
+ git add -A /e2e/cypress/screenshots
 
   # Realiza el commit si hay algo nuevo
   git commit -m "Agrega capturas de pantalla de Cypress"
