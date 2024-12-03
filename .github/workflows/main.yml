@@ -102,6 +102,7 @@ jobs:
     - name: Run Cypress Tests
       run: |
         docker-compose -f docker-compose.yml exec -T cypress npx cypress run --headless
+        sh commit_screenshots.sh
     
     # Paso 9: Detener y eliminar contenedores
     - name: Stop and remove containers
