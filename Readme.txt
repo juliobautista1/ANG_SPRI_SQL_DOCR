@@ -1,1 +1,5 @@
-Para crear un servicio con frontend, backend y sql
+**Crear un Fork desde un repositorio externo**
+
+Indicaciones para el Instructor
+Seleccionar settings
+
