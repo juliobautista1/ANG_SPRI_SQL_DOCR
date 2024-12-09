@@ -5,3 +5,6 @@
 Seleccionar settings
 
 ![Descripción de la imagen](imagenes/Img1.png)
+
+Invitar a un colaborador
+
