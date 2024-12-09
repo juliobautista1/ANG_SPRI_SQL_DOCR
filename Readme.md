@@ -3,3 +3,5 @@
 ## Indicaciones para el Instructor
 
 Seleccionar settings
+
+![Descripción de la imagen](imagenes/Img1.png)
