@@ -99,6 +99,6 @@ Espera unos minutos en lo que levanta el CodeSpace y tendrás una pantalla como 
 
 ![Descripción de la imagen](imagenes/Img20.png)
 
-Si no aparece la terminar presiona control-ñ
+Si no aparece la sección de la terminal presiona control-ñ
 
 ![Descripción de la imagen](imagenes/Img21.png)
