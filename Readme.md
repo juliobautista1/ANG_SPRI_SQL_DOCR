@@ -1,7 +1,11 @@
+# **Ejercicio TITULO DEL EJERCICIO**
 
-# **Crear un Fork desde un repositorio externo**
+# **Objetivo:**
+El objetivo es crear un contenedor de base de datos mysql con la versión 5.6, crear una aplicación de que permita un altas, bajas y cambios.
 
-## Indicaciones para el Instructor
+## **Crear un Fork desde un repositorio externo**
+
+### Indicaciones para el Instructor
 
 Seleccionar settings
 
@@ -21,7 +25,7 @@ Mostrará este mensaje de que estará pendiente la invitación y se quitará cua
 
 ![Descripción de la imagen](imagenes/Img5.png)
 
-## Indicaciones para el Participante
+### Indicaciones para el Participante
 Notificación al invitado
 
 ![Descripción de la imagen](imagenes/Img6.png)
@@ -54,15 +58,15 @@ Se verá así.
 
 ![Descripción de la imagen](imagenes/Img13.png)
 
-### Ambientación del ejercicio 
+#### Ambientación del ejercicio 
 Este ejercicio contiene instrucciones que ambientan e instalan lo necesario para el ejercicio, a excepción que el ejercicio incluya ambientar o instalar.
 
-### Actions
+#### Actions
 En GitHub, los Actions son una herramienta que permite automatizar flujos de trabajo dentro de un repositorio, como compilar código, ejecutar pruebas, desplegar aplicaciones, crear contenedores Docker, entre otros. Se basan en el concepto de CI/CD (Integración continua / Despliegue continuo) y te permiten definir acciones automáticas que se ejecutan en función de eventos que suceden en tu repositorio (por ejemplo, un "push" de código, la creación de un "pull request", etc.).
 Los GitHub Actions permiten definir workflows (flujos de trabajo) que se pueden configurar con archivos de definición en formato YAML dentro del directorio .github/workflows de tu repositorio. Estos workflows pueden contener varias acciones (tasks o steps), y GitHub ejecutará esas acciones en los eventos que especifiques.
 Este ejercicio contiene un Action, que no debe ser modificado, este action se ejecuta en cada push a la rama relacionada, en la mayoría de los ejercicios, este action compila, ejecuta pruebas unitarias y otras que permiten validar el resultado del ejercicio, este resultado se toma de base para la calificación.
 
-### Codespaces
+#### Codespaces
 
 GitHub Codespaces es un entorno de desarrollo integrado (IDE) basado en la web, completamente configurado y alojado en la nube, que permite a los desarrolladores escribir, compilar, probar y depurar código directamente desde GitHub. Codespaces proporciona una máquina virtual (VM) con todas las herramientas necesarias para trabajar en un proyecto, de modo que puedes desarrollar sin necesidad de configurar manualmente un entorno local.
 Este ejercicio está configurado para crear un Codespace y se ejecuten las instrucciones necesarias para ambientar una maquina virtual y puedas hacer el ejercicio, es importante no alterar el codespace a menos que el modificarlo sea parte del ejercicio.
