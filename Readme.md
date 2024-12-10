@@ -46,7 +46,7 @@ Selecciona crea un nuevo fork
 
 ![Descripción de la imagen](imagenes/Img10.png)
 
-Es recomendable dejar el nombre que se presenta default y selecciona el botón créate fork
+Es recomendable dejar el nombre que se presenta default y selecciona el botón create fork
 
 ![Descripción de la imagen](imagenes/Img11.png)
 
@@ -64,6 +64,7 @@ Este ejercicio contiene instrucciones que ambientan e instalan lo necesario para
 #### Actions
 En GitHub, los Actions son una herramienta que permite automatizar flujos de trabajo dentro de un repositorio, como compilar código, ejecutar pruebas, desplegar aplicaciones, crear contenedores Docker, entre otros. Se basan en el concepto de CI/CD (Integración continua / Despliegue continuo) y te permiten definir acciones automáticas que se ejecutan en función de eventos que suceden en tu repositorio (por ejemplo, un "push" de código, la creación de un "pull request", etc.).
 Los GitHub Actions permiten definir workflows (flujos de trabajo) que se pueden configurar con archivos de definición en formato YAML dentro del directorio .github/workflows de tu repositorio. Estos workflows pueden contener varias acciones (tasks o steps), y GitHub ejecutará esas acciones en los eventos que especifiques.
+
 Este ejercicio contiene un Action, que no debe ser modificado, este action se ejecuta en cada push a la rama relacionada, en la mayoría de los ejercicios, este action compila, ejecuta pruebas unitarias y otras que permiten validar el resultado del ejercicio, este resultado se toma de base para la calificación.
 
 #### Codespaces
