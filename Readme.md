@@ -26,11 +26,11 @@ Mostrará este mensaje de que estará pendiente la invitación y se quitará cua
 ![Descripción de la imagen](imagenes/Img5.png)
 
 ### Indicaciones para el Participante
-Notificación al invitado
+Notificación al invitado, se verá en tu github una notificación como la siguiente pantalla.
 
 ![Descripción de la imagen](imagenes/Img6.png)
 
-Llega un correo 
+La notificación es similar a un correo 
 
 ![Descripción de la imagen](imagenes/Img7.png)
 
