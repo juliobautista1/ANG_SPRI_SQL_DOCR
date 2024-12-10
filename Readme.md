@@ -72,6 +72,7 @@ Este ejercicio contiene un Action, que no debe ser modificado, este action se ej
 GitHub Codespaces es un entorno de desarrollo integrado (IDE) basado en la web, completamente configurado y alojado en la nube, que permite a los desarrolladores escribir, compilar, probar y depurar código directamente desde GitHub. Codespaces proporciona una máquina virtual (VM) con todas las herramientas necesarias para trabajar en un proyecto, de modo que puedes desarrollar sin necesidad de configurar manualmente un entorno local.
 
 Este ejercicio está configurado para crear un Codespace y se ejecuten las instrucciones necesarias para ambientar una maquina virtual y puedas hacer el ejercicio, es importante no alterar el Codespace a menos que el modificarlo sea parte del ejercicio.
+
 Para acceder a un Codespace selecciona Code una vez dentro de tu repositorio.
 
 ![Descripción de la imagen](imagenes/Img14.png)
