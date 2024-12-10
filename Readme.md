@@ -3,7 +3,7 @@
 # **Objetivo:**
 El objetivo es crear un contenedor de base de datos mysql con la versión 5.6, crear una aplicación de que permita un altas, bajas y cambios.
 
-# Plagio
+# Evitar el plagio
 Es de vital importancia no copiar la solución de otro colaborador, esto generará una práctica deslear y se levantará un Warning
 
 ## **Crear un Fork desde un repositorio externo**
