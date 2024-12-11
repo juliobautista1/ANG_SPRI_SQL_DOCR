@@ -1,12 +1,12 @@
 # **Ejercicio TITULO DEL EJERCICIO**
 
 # **Objetivo:**
-El objetivo es crear un contenedor de base de datos mysql con la versión 5.6, crear una aplicación de que permita un altas, bajas y cambios.
+El objetivo es crear un contenedor de base de datos mysql con la versión 5.6, crear una aplicación de que permita altas, bajas y cambios a un catálogo llamado piezas auto.
 
 # Evitar el plagio
-Es de vital importancia no copiar la solución de otro colaborador, esto generará una práctica deslear y se levantará un Warning
+Es de vital importancia no copiar la solución de otro colaborador, esto generará una práctica desleal y se levantará un Warning.
 
-## **Crear un Fork desde un repositorio externo**
+## **Para acceder al ejercicio es necesario crear un Fork desde un repositorio externo**
 
 ### Indicaciones para el Instructor
 
@@ -24,7 +24,7 @@ Agregar
 
 ![Descripción de la imagen](imagenes/Img4.png)
 
-Mostrará este mensaje de que estará pendiente la invitación y se quitará cuando el invitado la acepte.
+Mostrará este mensaje y estará pendiente la invitación y se quitará cuando el invitado la acepte.
 
 ![Descripción de la imagen](imagenes/Img5.png)
 
