@@ -28,7 +28,7 @@ Agregar
 
 ![Descripción de la imagen](imagenes/Img4.png)
 
-Mostrará este mensaje y estará pendiente la invitación y se quitará cuando el invitado la acepte.
+Mostrará este mensaje de invitación, quedará como pendiente y se quitará cuando el invitado la acepte.
 
 ![Descripción de la imagen](imagenes/Img5.png)
 
