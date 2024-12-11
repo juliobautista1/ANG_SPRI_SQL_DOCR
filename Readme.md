@@ -6,6 +6,10 @@ El objetivo es crear un contenedor de base de datos mysql con la versión 5.6, c
 # Evitar el plagio
 Es de vital importancia no copiar la solución de otro colaborador, esto generará una práctica desleal y se levantará un Warning.
 
+
+
+# Instrucciones generales
+
 ## **Para acceder al ejercicio es necesario crear un Fork desde un repositorio externo**
 
 ### Indicaciones para el Instructor
