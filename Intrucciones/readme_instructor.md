@@ -19,3 +19,5 @@ Agregar
 Mostrará este mensaje de invitación, quedará como pendiente y se quitará cuando el invitado la acepte.
 
 ![Descripción de la imagen](../imagenes/Img5.png)
+
+### Evaluar a un participante
