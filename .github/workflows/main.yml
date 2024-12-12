@@ -2,15 +2,11 @@ name: Build and Test with Docker Compose
 
 
 on:
-  workflow_dispatch:
-   # paths-ignore:
-   # - 'cypress/e2e/cypress/screenshots/spec.cy.js/**'
-   # branches:
-   #   - main
-  #pull_request:
-   # branches:
-    #  - main
-
+ push:
+    paths-ignore:
+    - 'cypress/e2e/cypress/screenshots/spec.cy.js/**'
+    branches:
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
