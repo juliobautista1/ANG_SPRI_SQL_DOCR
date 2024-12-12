@@ -1,6 +1,6 @@
-## **Para que el participante pueda acceder al ejercicio es necesario crear un fork desde este repositorio**
+## **Para que el participante pueda acceder al ejercicio es necesario invitarlo a este repositorio**
 
-### Indicaciones para invitar a un participante a un ejercicio por medio de un fork
+### Indicaciones para invitar a un participante
 
 Seleccionar settings
 
