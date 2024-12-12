@@ -1,4 +1,4 @@
-## **Para que el participante pueda acceder al ejercicio es necesario crear un fork desde un repositorio externo**
+## **Para que el participante pueda acceder al ejercicio es necesario crear un fork desde este repositorio**
 
 ### Indicaciones para invitar a un participante a un ejercicio por medio de un fork
 
