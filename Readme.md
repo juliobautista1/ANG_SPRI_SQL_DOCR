@@ -1,5 +1,6 @@
+# **Instrucciones para el instructor**
+[Ver archivo de documentación](docs/README.md)
 
-Link instructor
 
 Link participante
 
