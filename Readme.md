@@ -2,7 +2,8 @@
 [Ver](Instrucciones/Readme_instructor.md)
 
 
-Link participante
+# **Instrucciones para el participante**
+[Ver](Instrucciones/Readme_participante.md)
 
 # **Ejercicio TITULO DEL EJERCICIO**
 
