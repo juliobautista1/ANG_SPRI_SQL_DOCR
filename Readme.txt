@@ -1,5 +1,15 @@
-*Crear un Fork desde un repositorio externo*
+cd backend
+mvn clean install
+mvn clean package
 
-Indicaciones para el Instructor
-Seleccionar settings
+cd ..
 
+cd frontend
+
+export NODE_OPTIONS=--openssl-legacy-provider
+
+npm install
+
+npm run build
+
+docker-compose up --build &
