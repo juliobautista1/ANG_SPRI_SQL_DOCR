@@ -86,6 +86,8 @@ Selecciona el action fallido para ver el detalle del log.
 ![Descripción de la imagen](../imagenes/Img25.png)
 ![Descripción de la imagen](../imagenes/Img26.png)
 
+Deberás corregir tu solución, ya que el resultado del Action es parte de tu evaluación.
+
 Para entregar tu ejercicio, debes previamente hacer el push a tu rama en tu repositorio.
 
 Una vez que tu solución esté en la rama, deberás comparar la rama local y la rama del fork, basta con agregar la palabra compare a tu link del tu repositorio como la siguiente imagen.
