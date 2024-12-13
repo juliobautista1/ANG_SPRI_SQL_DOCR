@@ -92,11 +92,12 @@ Una vez que tu solución esté en la rama, deberás comparar la rama local y la 
 
 ![Descripción de la imagen](../imagenes/Img27.png)
 
-![Descripción de la imagen](../imagenes/Img27_1.png)
 
 Te presentará la comparación de los cambios, donde podrás seleccionar tu rama de tu repositorio contra la rama del repositorio que previamente creaste con el fork, selecciona Create pull request.
 
 ![Descripción de la imagen](../imagenes/Img28.png)
+
+![Descripción de la imagen](../imagenes/Img27_1.png)
 
 Tendrás esta pantalla donde es muy importante escribir en campo Add a title la palabra Ejercicio_(el número del ejericio) y tu IS como se muestra en la imagen, puedes agregar alguna descripcion adicional en el campo Add a description y selecciona Create pull request.
 
