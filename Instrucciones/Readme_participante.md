@@ -90,7 +90,7 @@ Deberás corregir tu solución, ya que el resultado del Action es parte de tu ev
 
 Para entregar tu ejercicio, debes previamente hacer el push a tu rama en tu repositorio.
 
-Una vez que tu solución esté en la rama, deberás comparar la rama local y la rama del fork, basta con agregar la palabra compare a tu link del tu repositorio como la siguiente imagen.
+Una vez que tu solución esté en tu rama, deberás comparar tu rama local y la rama del fork, basta con agregar la palabra compare a tu link del tu repositorio como la siguiente imagen.
 
 ![Descripción de la imagen](../imagenes/Img27.png)
 
