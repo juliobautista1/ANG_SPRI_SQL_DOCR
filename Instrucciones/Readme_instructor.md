@@ -34,11 +34,11 @@ Selecciona el repositorio del participante para acceder a su action, como en la 
 
 ![Descripción de la imagen](../imagenes/Img34.png)
 
-Esta acción te llevará al repositorio del participante y selecciona Actions.
+Esto te llevará al repositorio del participante, selecciona Actions.
 
 ![Descripción de la imagen](../imagenes/Img35.png)
 
-Ahi podrás observar si el action esta en verde que significa que todo se ejecutó correctamente.
+Ahí podrás observar, si el action está en verde significa que todo se ejecutó correctamente.
 
 ![Descripción de la imagen](../imagenes/Img36.png)
 
@@ -86,6 +86,8 @@ Si no aparece la sección de la terminal presiona control-ñ.
 ![Descripción de la imagen](../imagenes/Img21.png)
 
 Evalua la solución y notifica al participante.
+
+**Recuerda borrar todos los Codespace abiertos.**
 
 
 
