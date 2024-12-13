@@ -74,11 +74,37 @@ Para ver el resultado del action seleccionalo
 ![Descripción de la imagen](../imagenes/Img23.png)
 
 Si falló el action podrás consultar el log dando click sobre el action
+
 ![Descripción de la imagen](../imagenes/Img24.png)
+
 Selecciona el action fallido para ver el detalle del log
+
 ![Descripción de la imagen](../imagenes/Img25.png)
 ![Descripción de la imagen](../imagenes/Img26.png)
 
 Para entregar tu ejercicio, debes previamente hacer el push a tu rama en tu repositorio.
 
-Una vez que tu solución esté en la rama, deberás 
+Una vez que tu solución esté en la rama, deberás comparar la rama local y la rama del fork, basta con agregar la palabra compare a tu link del tu repositorio como la siguiente imagen.
+
+![Descripción de la imagen](../imagenes/Img27.png)
+
+Te presentará la comparación de los cambios, donde podrás seleccionar tu rama de tu repositorio contra la rama del repositorio que previamente creaste con el fork, selecciona Create pull request
+
+![Descripción de la imagen](../imagenes/Img28.png)
+
+Tendrás esta pantalla donde es muy importante escribir en campo Add a title la palabra Ejercicio_(el número del ejericio) y tu IS como se muestra en la imagen, puedes agregar alguna descripcion adicional y selecciona Create pull request
+
+![Descripción de la imagen](../imagenes/Img29.png)
+
+Ahora espera la evaluación de tu instructor
+
+
+
+
+
+
+
+
+
+
+
