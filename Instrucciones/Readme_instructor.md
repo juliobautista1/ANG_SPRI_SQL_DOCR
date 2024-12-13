@@ -57,7 +57,7 @@ Podrás evaluar conforme al criterio definido para este ejercicio y notificarás
 
 Si el action está en verde y requieres ver la solución funcionando, deberás utilizar un Codespace.
 
-Asegurate de estar en tu repositorio, ya que el repositorio del participante es muy parecido en cuanto a la estructura y rama.
+Asegúrate de estar en tu repositorio, ya que el repositorio del participante es muy parecido en cuanto a la estructura y rama.
 
 Una vez que estés en tu repositorio como instructor, selecciona Pull request.
 
