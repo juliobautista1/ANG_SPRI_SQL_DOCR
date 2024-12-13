@@ -2,15 +2,15 @@
 
 ### Indicaciones para invitar a un participante
 
-Seleccionar settings
+Seleccionar settings.
 
 ![Descripción de la imagen](../imagenes/Img1.png) 
 
-Invitar a un colaborador
+Invitar a un colaborador.
 
 ![Descripción de la imagen](../imagenes/Img2.png)
 
-Agregar 
+Agregar.
 
 ![Descripción de la imagen](../imagenes/Img3.png)
 
