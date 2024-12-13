@@ -75,7 +75,7 @@ Tendrás una pantalla como esta en el browser.
 
 ![Descripción de la imagen](../imagenes/Img38.png)
 
-Si requieres utilizar Visual Studio Code, regresa a la pantalla de tu repositorio, refresca y selecciona Code, selecciona Codespaces, selecciona los 3 puntos y selecciona Open in Vicual Studio Code.
+Si requieres utilizar Visual Studio Code, regresa a la pantalla de tu repositorio, refresca y selecciona Code, selecciona Codespaces, selecciona los 3 puntos y selecciona Open in Visual Studio Code.
 
 ![Descripción de la imagen](../imagenes/Img39.png)
 
