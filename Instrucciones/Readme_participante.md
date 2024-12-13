@@ -67,7 +67,7 @@ Si no aparece la sección de la terminal presiona control-ñ.
 
 ![Descripción de la imagen](../imagenes/Img21.png)
 
-Una vez que hayas terminado de resolver el ejercicio, deberás hacer push a la rama, esto disparará un action.
+Una vez que hayas terminado de resolver el ejercicio, deberás hacer push a tu rama en tu repositorio, esto disparará un action.
 
 El action está diseñado para validar el cumplimento de ciertos pasos, para ver el resultado en tu repositorio selecciona Actions.
 
