@@ -13,7 +13,7 @@
 El objetivo es crear un contenedor de base de datos mysql con la versión 5.6, crear una aplicación de que permita altas, bajas y cambios a un catálogo llamado piezas auto.
 
 # **Cómo evaluar:**
-Se evaluará con el resultado que muestre el Action en el repositorio del participante y con la ejecución de la solución.
+Se evaluará con el resultado que muestre el Action en el repositorio del participante y con la ejecución de la solución en un Codespace.
 
 # Evitar el plagio
 Es de vital importancia no copiar la solución de otro colaborador, esto generará una práctica desleal y se levantará un Warning.
