@@ -71,7 +71,7 @@ Selecciona Code, luego la pestaña Codespaces y selecciona Create Codespace on .
 
 ![Descripción de la imagen](../imagenes/Img37.png)
 
-Tendrán una pantalla como esta en el browser.
+Tendrás una pantalla como esta en el browser.
 
 ![Descripción de la imagen](../imagenes/Img38.png)
 
