@@ -30,7 +30,7 @@ Podrás identificar la entrega y el participante con los datos que aparecen con 
 
 ![Descripción de la imagen](../imagenes/Img33.png)
 
-Selecciona al repositorio del participante como en la pantalla siguiente.
+Selecciona el repositorio del participante para acceder a su action, como en la pantalla siguiente.
 
 ![Descripción de la imagen](../imagenes/Img34.png)
 
