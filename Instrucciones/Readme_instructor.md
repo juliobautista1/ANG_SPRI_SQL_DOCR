@@ -14,7 +14,7 @@ Agregar.
 
 ![Descripción de la imagen](../imagenes/Img3.png)
 
-EScribe el usuario a quien invitarás.
+Escribe el usuario a quien invitarás.
 
 ![Descripción de la imagen](../imagenes/Img4.png)
 
