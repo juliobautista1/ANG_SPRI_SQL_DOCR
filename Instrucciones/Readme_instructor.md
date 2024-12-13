@@ -53,7 +53,26 @@ Selecciona el action fallido para ver el detalle del log.
 
 Podrás evaluar conforme al criterio definido para este ejercicio y notificarás al participante.
 
-Si requieres ver la solución funcionando, deberás utilzar un Codespace.
+Si requieres ver la solución funcionando, deberás utilizar un Codespace.
+
+Asegurate de estar en tu repositorio, ya que el repositorio del participante es muy parecido en cuanto a la estructura y rama.
+
+Una vez que estés en tu repositorio como instructor, selecciona Pull request.
+
+![Descripción de la imagen](../imagenes/Img32.png)
+
+Selecciona el request del ejercicio y participante a evaluar.
+
+![Descripción de la imagen](../imagenes/Img33.png)
+
+Selecciona Code, luego la pestaña Codespaces y selecciona Create Codespace on ...
+
+![Descripción de la imagen](../imagenes/Img37.png)
+
+Tendrán una pantalla como esta en el browser.
+
+![Descripción de la imagen](../imagenes/Img38.png)
+
 
 
 
