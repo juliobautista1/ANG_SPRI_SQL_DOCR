@@ -77,7 +77,15 @@ Si requieres utilizar Visual Studio Code, regresa a la pantalla, refresca y sele
 
 ![Descripción de la imagen](../imagenes/Img39.png)
 
+Espera unos minutos en lo que levanta el CodeSpace y tendrás una pantalla como esta:
 
+![Descripción de la imagen](../imagenes/Img20.png)
+
+Si no aparece la sección de la terminal presiona control-ñ.
+
+![Descripción de la imagen](../imagenes/Img21.png)
+
+Evalua la solución y notifica al participante.
 
 
 
