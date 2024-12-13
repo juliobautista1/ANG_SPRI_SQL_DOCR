@@ -107,6 +107,7 @@ Tendrás esta pantalla donde es muy importante escribir en campo Add a title la 
 
 Ahora espera la evaluación de tu instructor.
 
+**Recuerda borrar todos los Codespace abiertos.**
 
 
 
