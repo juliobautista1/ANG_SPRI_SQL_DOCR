@@ -14,6 +14,8 @@ Agregar.
 
 ![Descripción de la imagen](../imagenes/Img3.png)
 
+EScribe el usuario a quien invitarás.
+
 ![Descripción de la imagen](../imagenes/Img4.png)
 
 Mostrará este mensaje de invitación, quedará como pendiente y se quitará cuando el invitado la acepte.
