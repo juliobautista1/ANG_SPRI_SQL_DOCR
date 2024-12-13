@@ -15,7 +15,7 @@ Selecciona fork.
 
 ![Descripción de la imagen](../imagenes/Img9.png)
 
-Selecciona crea un nuevo fork.
+Selecciona crear un nuevo fork.
 
 ![Descripción de la imagen](../imagenes/Img10.png)
 
