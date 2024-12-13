@@ -55,7 +55,7 @@ Selecciona el action fallido para ver el detalle del log.
 
 Podrás evaluar conforme al criterio definido para este ejercicio y notificarás al participante.
 
-Si requieres ver la solución funcionando, deberás utilizar un Codespace.
+Si el action está en verde y requieres ver la solución funcionando, deberás utilizar un Codespace.
 
 Asegurate de estar en tu repositorio, ya que el repositorio del participante es muy parecido en cuanto a la estructura y rama.
 
