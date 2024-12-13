@@ -28,7 +28,7 @@ Para evaluar a un participante, selecciona Pull request, el número que veas a u
 
 ![Descripción de la imagen](../imagenes/Img32.png)
 
-Podrás identificar la entrega y el participante con los datos que aparecen con en la siguiente pantalla:
+Podrás identificar la entrega y al participante con los datos que aparecen con en la siguiente pantalla:
 
 ![Descripción de la imagen](../imagenes/Img33.png)
 
