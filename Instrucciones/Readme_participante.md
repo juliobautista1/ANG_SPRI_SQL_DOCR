@@ -1,5 +1,5 @@
 ### Indicaciones para el Participante
-Notificación al invitado, se verá en tu github una notificación como la siguiente pantalla.
+Recibirás una notificación, se verá en tu github como la siguiente pantalla.
 
 ![Descripción de la imagen](../imagenes/Img6.png)
 
