@@ -3,7 +3,7 @@ Notificación al invitado, se verá en tu github una notificación como la sigui
 
 ![Descripción de la imagen](../imagenes/Img6.png)
 
-La notificación es similar a un correo 
+La notificación es similar a un correo.
 
 ![Descripción de la imagen](../imagenes/Img7.png)
 
@@ -11,19 +11,19 @@ Selecciona aceptar invitación.
 
 ![Descripción de la imagen](../imagenes/Img8.png)
 
-Selecciona fork
+Selecciona fork.
 
 ![Descripción de la imagen](../imagenes/Img9.png)
 
-Selecciona crea un nuevo fork
+Selecciona crea un nuevo fork.
 
 ![Descripción de la imagen](../imagenes/Img10.png)
 
-Es recomendable dejar el nombre que se presenta default y selecciona el botón create fork
+Es recomendable dejar el nombre que se presenta default y selecciona el botón create fork.
 
 ![Descripción de la imagen](../imagenes/Img11.png)
 
-Aparecerá este mensaje “forked from” 
+Aparecerá este mensaje “forked from”.
 
 ![Descripción de la imagen](../imagenes/Img12.png)
 
@@ -35,11 +35,11 @@ Para acceder a un Codespace selecciona Code una vez dentro de tu repositorio.
 
 ![Descripción de la imagen](../imagenes/Img14.png)
 
-Tendremos esta ventana con 2 pestañas
+Tendremos esta ventana con 2 pestañas.
 
 ![Descripción de la imagen](../imagenes/Img15.png)
 
-Selecciona Codespaces
+Selecciona Codespaces.
 
 ![Descripción de la imagen](../imagenes/Img16.png)
 
@@ -63,25 +63,25 @@ Espera unos minutos en lo que levanta el CodeSpace y tendrás una pantalla como 
 
 ![Descripción de la imagen](../imagenes/Img20.png)
 
-Si no aparece la sección de la terminal presiona control-ñ
+Si no aparece la sección de la terminal presiona control-ñ.
 
 ![Descripción de la imagen](../imagenes/Img21.png)
 
-Una vez que hayas terminado de resolver el ejercicio, deberás hacer push a la rama, esto disparará un action
+Una vez que hayas terminado de resolver el ejercicio, deberás hacer push a la rama, esto disparará un action.
 
-El action está diseñado para validar el cumplimento de ciertos pasos, para ver el resultado en tu repositorio selecciona Actions
+El action está diseñado para validar el cumplimento de ciertos pasos, para ver el resultado en tu repositorio selecciona Actions.
 
 ![Descripción de la imagen](../imagenes/Img22.png)
 
-Para ver el resultado del action seleccionalo
+Para ver el resultado del action selecciónalo.
 
 ![Descripción de la imagen](../imagenes/Img23.png)
 
-Si falló el action podrás consultar el log dando click sobre el action
+Si falló el action podrás consultar el log dando click sobre el action.
 
 ![Descripción de la imagen](../imagenes/Img24.png)
 
-Selecciona el action fallido para ver el detalle del log
+Selecciona el action fallido para ver el detalle del log.
 
 ![Descripción de la imagen](../imagenes/Img25.png)
 ![Descripción de la imagen](../imagenes/Img26.png)
@@ -92,15 +92,17 @@ Una vez que tu solución esté en la rama, deberás comparar la rama local y la 
 
 ![Descripción de la imagen](../imagenes/Img27.png)
 
-Te presentará la comparación de los cambios, donde podrás seleccionar tu rama de tu repositorio contra la rama del repositorio que previamente creaste con el fork, selecciona Create pull request
+![Descripción de la imagen](../imagenes/Img27_1.png)
+
+Te presentará la comparación de los cambios, donde podrás seleccionar tu rama de tu repositorio contra la rama del repositorio que previamente creaste con el fork, selecciona Create pull request.
 
 ![Descripción de la imagen](../imagenes/Img28.png)
 
-Tendrás esta pantalla donde es muy importante escribir en campo Add a title la palabra Ejercicio_(el número del ejericio) y tu IS como se muestra en la imagen, puedes agregar alguna descripcion adicional en el campo Add a description y selecciona Create pull request
+Tendrás esta pantalla donde es muy importante escribir en campo Add a title la palabra Ejercicio_(el número del ejericio) y tu IS como se muestra en la imagen, puedes agregar alguna descripcion adicional en el campo Add a description y selecciona Create pull request.
 
 ![Descripción de la imagen](../imagenes/Img29.png)
 
-Ahora espera la evaluación de tu instructor
+Ahora espera la evaluación de tu instructor.
 
 
 
