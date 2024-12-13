@@ -44,12 +44,15 @@ Selecciona Codespaces
 ![Descripción de la imagen](../imagenes/Img16.png)
 
 Tendrás esta pantalla, en este ejemplo el Codespace se generará con las instrucciones en la rama main. 
+
 Espera hasta que presente una pantalla similar a esta:
 
 ![Descripción de la imagen](../imagenes/Img17.png)
 
-Ya puedes utilizar este Codespace
+Ya puedes utilizar este Codespace.
+
 Si quieres utilizar el Codespace con Visual Studio Code, necesitas tener instalado previamente Visual Studio Code en tu computadora.
+
 Tendrás una pantalla como la siguiente:
 
 ![Descripción de la imagen](../imagenes/Img18.png)
